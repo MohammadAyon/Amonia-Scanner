@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+build_env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# App settings (don't leak user paths)
+.pdf_recolor.json
